@@ -1,0 +1,17 @@
+## Interface: 100107  
+## Title: Damage modifiers
+## Notes: Test
+## Author: Jejj
+## Version: 1.0
+
+# Libraries
+Libs\LibStub\LibStub.lua
+Libs\Ace3\AceDB-3.0.xml
+Libs\LibPlayerSpells-1.0\lib.xml
+
+# Core Files
+constants.lua
+util.lua
+events.lua
+options.lua
+main.lua
